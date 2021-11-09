@@ -6,7 +6,7 @@ Currently Work in Progress, If you want to help please DM me in Discord: Shiiva#
 - SAE can easily deobfuscate the file but there are some methods that are somewhat scrambled which forced me to backtrack them and convert them to somewhat readable code.
 
 ## Important
-- If this works, there is a limit of how many tabs of MIR4 can be opened. This cannot be bypassed unless you meddle with the Game itself. What this Application does is replicating what the Launcher does but removes the restriction of having 3 or more instances.
+- If this works, there is a limit of how many tabs of MIR4 can be opened. This cannot be bypassed unless you meddle with the Game itself. What this Application does is replicating what the Launcher does but removes the restriction of not having 3 or more instances.
 
 ## What I Found
 - Embed Bytes (Somewhat an Embedded SDK of MIR4 that has certain parameters needed to Launch a game)
