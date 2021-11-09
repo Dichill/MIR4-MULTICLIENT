@@ -1,0 +1,13 @@
+﻿<Window x:Class="MIR4_MULTICLIENT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MIR4_MULTICLIENT"
+        mc:Ignorable="d"
+        Title="MIR4 Multi Instance - Shiva" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="CreateInstance" Width="100" Height="50" Content="Create Instance" Click="CreateInstance_Click"/>
+        <TextBox x:Name="wtftxt" Width="100" Height="50" Margin="347,240,346.6,130"/>
+    </Grid>
+</Window>
