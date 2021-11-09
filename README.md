@@ -14,5 +14,7 @@ Currently Work in Progress, If you want to help please DM me in Discord: Shiiva#
 - You can run the Game but you cannot get pass to the "Run from the Launcher"
 - Embedded File converted to Stream. (This is the process from the MIR4 Launcher, currently analyzing the Launcher.)
 
+![image](https://user-images.githubusercontent.com/48512644/140883866-cef56167-a618-4020-9d21-e9619ad32ebd.png)
+
 ## Notes
 - Don't mind the UI, we are currently focusing on the core itself.
