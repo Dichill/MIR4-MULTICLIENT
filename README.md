@@ -1,6 +1,6 @@
 # MIR4-MULTICLIENT
 Currently Work in Progress, If you want to help please DM me in Discord: Shiiva#4227
-This is a proof of concept. There is proof that we can possibly launch multiple instances of mir4 but there is no working method yet.
+This is a proof of concept. There is proof that we can possibly launch multiple instances of mir4 but there is no working method yet. (There are other hacking forums who already did this. This is merely just a project to broaden my knowedge with reverse engineering and C#.)
 
 ## Obfuscation
 - Crypto Obfuscator (Minimum Level) - Probably to avoid Virus Detection (If its Maximum it often false positive.)
